@@ -1,4 +1,4 @@
-[_KATSU0,
-Frounder,
-HomuraKunG,
-SJKZ1]
+_KATSU0
+Frounder
+HomuraKunG
+SJKZ1
